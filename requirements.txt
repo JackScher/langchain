@@ -1,0 +1,11 @@
+langchain==0.0.235
+openai==0.27.8
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+fastapi==0.100.0
+uvicorn==0.23.1
+pytest==7.4.0
+httpx==0.24.1
+python-decouple==3.8
+pypdf2==3.0.1
+gunicorn
